@@ -1,4 +1,4 @@
-Grid-Guide-Generator for Adobe Photoshop
+Grid Guide Generator for Adobe Photoshop
 ====================
 
 A script for Adobe Photoshop. Will create a grid of guides with columns and gutter based on user input.
